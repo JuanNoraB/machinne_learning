@@ -1,0 +1,34 @@
+Nombre del Indicador: Viviendas abastecidas de agua por red pública
+Definición: Viviendas abastecidas por agua de la red pública a través de tubería dentro de la vivienda, en un determinado año
+Unidad de medida: %
+Fuente de datos: INEC - Censo de Poblacion y Vivienda (CPV)
+Ciudad,si,no
+Ambato,81.7,18.3
+Azogues,77,23
+Babahoyo,63,37
+Cuenca,87.9,12.1
+Daule,44.7,55.3
+Durán,62.8,37.2
+Esmeraldas,87.7,12.3
+Guaranda,60.9,39.1
+Guayaquil,85.4,14.6
+Ibarra,90.8,9.2
+Lago Agrio,33.7,66.3
+Latacunga,70.4,29.6
+Loja,83.7,16.3
+Machala,75.1,24.9
+Morona,63.7,36.3
+Milagro,57.5,42.5
+Orellana,65.5,34.5
+Pastaza,62.7,37.3
+Portoviejo,67.4,32.6
+Quevedo,96,4
+Quito,76.1,23.9
+Riobamba,62.6,37.4
+San Cristóbal,56.8,43.2
+Santa Elena,92.2,7.8
+Santo Domingo,72.4,27.6
+Tena,78.7,21.3
+Tulcán
+Zamora
+Manta
